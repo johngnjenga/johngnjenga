@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @johngnjenga. am completing my bscit undergraduate by end of march 2021
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Angular and laravel on udemy
+- 👀 I’m interested in development
 - 💞️ I’m looking to collaborate with fellow engineers and grow my skills as we develop great projects
 - 📫 How to reach me . O799238443 or johngnjenga99@gmail.com
 
