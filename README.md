@@ -1,5 +1,4 @@
-- 👀 I’m interested in development
-- 💞️ I’m looking to collaborate with fellow engineers and grow my skills as we develop great projects
+- 👀 I’m passionate in data engineering as well as software engineering.
 - 📫 How to reach me . O799238443 or johngnjenga99@gmail.com
 
 <!---
