@@ -1,4 +1,4 @@
-- 👀 I’m passionate in data engineering as well as software engineering.
+- 👀 I’m a data engineer who has interest in computer vision.
 - 📫 How to reach me . O799238443 or johngnjenga99@gmail.com
 
 <!---
